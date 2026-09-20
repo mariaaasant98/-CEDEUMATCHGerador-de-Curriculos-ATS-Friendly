@@ -58,3 +58,25 @@ PRD refinado com Gemini
 - Usar ícones acolhedores e modernos da biblioteca `lucide-react` (ex: `Sparkles`, `Target`, `HeartHandshake`, `FileCheck`).
 - Mensagem de encorajamento fixa no rodapé: *"Seu valor não depende de anos de carteira assinada. Vamos fazer o RH enxergar o seu talento!"*
 
+1. Qual problema a aplicação resolve?
+
+O CÊDEUMATCH ajuda estudantes, recém-formados e candidatos ao primeiro emprego a aumentarem suas chances de passar pelos sistemas ATS, transformando experiências acadêmicas, cursos e projetos em um currículo mais alinhado às exigências das vagas.
+
+2. Como a análise funciona?
+
+O usuário cola a descrição da vaga e seu currículo. O sistema compara as informações, identifica palavras-chave, calcula um score de compatibilidade ATS, aponta melhorias e gera uma versão otimizada do currículo sem inventar informações.
+
+3. Quais ajustes foram feitos após a primeira geração?
+   Ajustes feitos a partitr dessas interações com a IA:
+   Crie um app gerador de currículo ats ( (Applicant Tracking Systems) friendly a partir do seguinte PRD (Product Requirements Document) {PRD}
+   Preciso que adicione opção de carregar o currículo do candidato Opção de editar o currículo criado pelo app Seria ótimo fazer perguntas pessoais como nome, idade e formação para adicionar no currículo
+   quando envio o curriculo, ele transcreve tudo. a ideia não é ele transcrever, é analisar somente. mude para adicionar curriculo OU escrever sobre você
+   <img width="1584" height="750" alt="cdm" src="https://github.com/user-attachments/assets/7cc32b8a-9ca0-442b-a1cb-e529a6eeb7ae" />
+<img width="1582" height="809" alt="cedeumatch" src="https://github.com/user-attachments/assets/338c69a7-9c8f-4cc6-8749-3a21401b7b56" />
+<img width="1561" height="825" alt="image" src="https://github.com/user-attachments/assets/90e11b66-a100-4bfd-80d0-cb9ced599f44" />
+<img width="1596" height="813" alt="image" src="https://github.com/user-attachments/assets/889c235e-c667-46d3-89fc-d76e42fb9baa" />
+
+5. Endereço da aplicação publicada
+
+URL da aplicação: https://cedeumatch.lovable.app
+
